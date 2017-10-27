@@ -15,6 +15,7 @@
 	<packaging>hpi</packaging>
 	<name>Confluence Pipeline Steps Plugin</name>
 	<inceptionYear>2017</inceptionYear>
+	<url>https://wiki.jenkins.io/display/JENKINS/Confluence+Steps+Pipeline+Plugin</url>
 
 	<licenses>
 		<license>
